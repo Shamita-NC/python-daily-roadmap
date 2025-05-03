@@ -1,2 +1,2 @@
 # python-daily-roadmap
-Progess on my python coding
+Progess on my daily python coding
